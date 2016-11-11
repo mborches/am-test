@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.helloworld"
+        id        = "com.plopi.amies"
         version   = "1.0.0">
 
-    <name>AM Test</name>
+    <name>AMIES</name>
 
     <description>
-        AM Test
+        AMIES Game
     </description>
 
     <author href="http://plopi.com.ar" email="info@plopi.com.ar">
